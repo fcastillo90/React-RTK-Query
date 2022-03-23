@@ -1,1 +1,1 @@
-export * from './counterAPI';
+export * from './pokemonApi';
